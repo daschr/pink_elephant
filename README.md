@@ -6,18 +6,20 @@
 
 # Running
 - `qemu-mipsel-static  ./target/mipsel-unknown-linux-musl/release/pink_elephant`
-- you should see something like `f0f0f0f00f0f0f0f
-0f0f0f0ff0f0f0f0
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f
-0f0f0f0ff0f0f0f0
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f
-f0f0f0f00f0f0f0f`
+- you should see something like
+  ```f0f0f0f00f0f0f0f
+  0f0f0f0ff0f0f0f0
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  0f0f0f0ff0f0f0f0
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  f0f0f0f00f0f0f0f
+  ```
